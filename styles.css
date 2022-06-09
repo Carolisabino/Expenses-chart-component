@@ -1,0 +1,108 @@
+.background{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(27, 66%, 92%);
+}
+
+.balance{
+    height: 70px;
+    width: 500px;
+    background-color: hsl(10, 79%, 65%);
+    color: hsl(33, 100%, 98%);
+    margin: 100px auto 1px auto;
+    border-radius: 8px;
+}
+
+.chart{
+    height:450px;
+    width: 500px;
+    background-color: white;
+    margin: 20px auto 1px auto;
+    border-radius: 8px;
+   
+}
+
+.title{
+    font-weight: 400;
+    margin-left: 20px;
+    position: absolute;
+    text-align: justify;
+    margin-top: 7px;
+}
+
+.value{
+    font-weight: 700;
+    font-size: larger;
+    margin-left: 20px;
+    position: absolute;
+    text-align: justify;
+    margin-top: 30px
+}
+
+.logo{
+    position: relative;
+    margin-left: 420px;
+    margin-top: 15px;
+    height: 40px;
+}
+
+.during{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 800;
+    font-size: 2rem;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+hr{
+    height: 1px;
+    background-color:grey;
+    border: none;
+    width: 450px;
+    position: absolute;
+    margin-left: 22px;
+    margin-top: 30px;
+
+}
+
+.total{
+    color: gray;
+    text-align: justify;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 60px;
+}
+
+.total-amoutn{
+    font-weight: 800;
+    font-size: 2rem;
+    font-family: 'Rubik', sans-serif;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 91px;
+}
+
+.percentage{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 100px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 800;
+
+}
+
+.pass{
+    position: absolute;
+    margin-left: 360px ;
+    margin-top: 60px;
+}
+
+footer{
+    text-align: center;
+    font-size: small;
+}
+
+#myChart{
+    position: relative;
+    margin-left: 36px;
+    
+}
